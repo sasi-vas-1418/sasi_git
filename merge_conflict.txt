@@ -1,2 +1,2 @@
 Hi, This is the file for creating the mere conflict
-This is something modified by new branch
+This is something modified by master
